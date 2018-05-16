@@ -1,0 +1,5 @@
+/logs
+/.data
+.env
+/postgres/dumps/*
+!/postgres/dumps/.gitkeep
